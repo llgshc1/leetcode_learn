@@ -41,3 +41,13 @@
   ![img_7.png](img_7.png)
   28 镜像二叉树
   ![img_8.png](img_8.png)
+  29
+  b站视频
+  https://www.bilibili.com/video/BV1zT4y1J7Zy?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  30 minStack
+  b站视频
+  https://www.bilibili.com/video/BV1aK4y1C7Qd?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  31 进出栈
+  ![img_9.png](img_9.png)
+  32 二叉树遍历
+  ![img_10.png](img_10.png)
