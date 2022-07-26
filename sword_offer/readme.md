@@ -51,3 +51,12 @@
   ![img_9.png](img_9.png)
   32 二叉树遍历
   ![img_10.png](img_10.png)
+  322 二叉树左右遍历
+  323 二叉树之字遍历
+  B站视频
+  https://www.bilibili.com/video/BV1T64y1h7hB?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  33 判断是否为后续遍历
+  ![img_11.png](img_11.png)
+  34 某条路径之和
+  B站视频
+  https://www.bilibili.com/video/BV1nK4y1u783?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
