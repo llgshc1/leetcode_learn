@@ -60,3 +60,20 @@
   34 某条路径之和
   B站视频
   https://www.bilibili.com/video/BV1nK4y1u783?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  
+  35复制复杂链表
+  
+  B站视频
+  
+  https://www.bilibili.com/video/BV1XE411L7CK?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  38 字符串排列组合
+  B站视频
+  https://www.bilibili.com/video/BV1wq4y1p7fJ?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  39 数字出现超过数组一半
+  ![img_12.png](img_12.png)
+  41
+  B站视频
+  https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/comments/
+  42
+  B站视频
+  https://www.bilibili.com/video/BV1ML4y1h7S8?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
