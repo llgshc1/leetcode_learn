@@ -82,3 +82,25 @@
   45
   B站视频
   https://www.bilibili.com/video/BV1Nz41187Ai?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  46
+  47
+  动态规划 每个位置有两个选择 向下或者向右
+  48
+  滑动窗口 注意继续滑动的条件是 i-j > temp 即是当前段无重复
+  49
+  注意leetcode官方题解2
+  50
+  注意使用下标来记录字母的值
+  51
+  ![img_14.png](img_14.png)
+  https://www.bilibili.com/video/BV1Qk4y1r7u5?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  52
+  https://www.bilibili.com/video/BV1c54y1d76X?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  53
+  经典二分查找
+  54
+  https://www.bilibili.com/video/BV1GQ4y1M72Q?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  551 552
+  https://www.bilibili.com/video/BV1M7411m7wt?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c
+  561
+  https://www.bilibili.com/video/BV1yy4y1W7QR?spm_id_from=333.337.search-card.all.click&vd_source=d29cb08e3ad363cbedf86a25badae61c

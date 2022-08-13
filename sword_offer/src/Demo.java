@@ -10,6 +10,9 @@ public class Demo {
        String s = "01234";
        System.out.println(s.length());
        System.out.println(s.substring(0,s.length()));
+      char temp = 'V' + 'b' -'a';
+      System.out.println(temp);
+
    }
 
 }
